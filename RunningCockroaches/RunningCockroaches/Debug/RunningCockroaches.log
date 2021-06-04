@@ -1,0 +1,7 @@
+﻿  Race.cpp
+d:\knu\koval\runningcockroaches\runningcockroaches\race.cpp(52): warning C4018: <: несоответствие типов со знаком и без знака
+d:\knu\koval\runningcockroaches\runningcockroaches\race.cpp(71): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+d:\knu\koval\runningcockroaches\runningcockroaches\race.cpp(76): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+d:\knu\koval\runningcockroaches\runningcockroaches\race.cpp(96): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+d:\knu\koval\runningcockroaches\runningcockroaches\race.cpp(142): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  RunningCockroaches.vcxproj -> D:\KNU\Koval\RunningCockroaches\Debug\RunningCockroaches.exe
